@@ -256,7 +256,7 @@ static CustomizationBlock kDefauldCustomizationBlock = nil;
     self.labelShadowColor = [UIColor blackColor];
     self.labelShadowOffset = CGSizeMake(0.0f, 1.0f);
     
-    UIColor *topGradient = [UIColor colorWithRed:0.27f green:0.27f blue:0.27f alpha:1.0f];
+    UIColor *topGradient = [UIColor colorWithRed:0.17f green:0.17f blue:0.17f alpha:1.0f];
     UIColor *middleGradient = [UIColor colorWithRed:0.21f green:0.21f blue:0.21f alpha:1.0f];
     UIColor *bottomGradient = [UIColor colorWithRed:0.15f green:0.15f blue:0.15f alpha:1.00f];
     self.gradientColors = @[topGradient,middleGradient,bottomGradient];
